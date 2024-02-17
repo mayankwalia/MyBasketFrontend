@@ -1,0 +1,86 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+.primary1{
+    color: #F0FF42;
+}
+
+.primary2{
+    color: #82CD47;
+}
+
+.primary3{
+    color: #54B435;
+}
+
+.primary4{
+    color: #379237;
+}
+
+.primary5{
+    color: #FF8080;
+}
+
+.primary6{
+    color: #FFCF96;
+}
+.primary7{
+    color: #F6FDC3;
+}
+.primary8{
+    color: #CDFAD5;
+}
+
+.primary1-bg{
+    background-color: #F0FF42;
+}
+
+.primary2-bg{
+    background-color: #82CD47;
+}
+
+.primary3-bg{
+    background-color: #54B435;
+}
+
+.primary4-bg{
+    background-color: #379237;
+}
+
+.primary5-bg{
+    background-color: #FF8080;
+}
+
+.primary6-bg{
+    background-color: #FFCF96;
+}
+.primary7-bg{
+    background-color: #F6FDC3;
+}
+.primary8-bg{
+    background-color: #CDFAD5;
+}
+
+.primary1-bg:hover{
+    background-color: #F6FDC3;
+}
+
+.primary2-bg:hover{
+    background-color: #379237;
+}
+
+.primary7:hover{
+    background-color: #54B435;
+}
+
+.scrollable-row {
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+.shadow1{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.shadow2{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
